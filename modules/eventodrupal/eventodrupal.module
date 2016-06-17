@@ -1,0 +1,13 @@
+<?php
+
+/**
+ * @file
+ * Module do Evento do Fabio
+ */
+
+/**
+ * Nao faz nada apenas um var dump
+ */
+function eventodrupal_lixo() {
+  var_dump($_SESSION);
+}

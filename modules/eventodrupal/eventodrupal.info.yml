@@ -1,0 +1,7 @@
+
+name: Evento Drupal Aula de PHP
+description: Evento Drupal Aula do Fabio
+package: Custom
+
+type: module
+core: 8.x

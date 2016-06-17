@@ -1,0 +1,15 @@
+eventodrupal.form:
+  path: '/example-form'
+  defaults:
+    _title: 'Eventodrupal form'
+    _form: '\Drupal\eventodrupal\Form\ExampleForm'
+  requirements:
+    _permission: 'access content'
+    
+eventodrupal.form_add:
+  path: '/example-form-teste'
+  defaults:
+    _title: 'Eventodrupal form teste'
+    _form: '\Drupal\eventodrupal\Form\TesteForm'
+  requirements:
+    _permission: 'access content'
